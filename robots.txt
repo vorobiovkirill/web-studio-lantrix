@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /blog/
+
+
+User-agent: Yandex
+Disallow: /blog/
+
+Host: https://lantrix.com.ua
+Sitemap: https://lantrix.com.ua/sitemap.xml
